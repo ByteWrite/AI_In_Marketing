@@ -13,3 +13,4 @@ The jupyter notebook can be viewed directly inside of github. The code samples r
 ## Credits
 
 Credits go to Francois Chollet and Tensorrec. I've merely created a wrapper to get people started.
+Ok
